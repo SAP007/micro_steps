@@ -15,7 +15,7 @@
 #
 
 app:
-  greeting: "Hello"
+  drivertype: Array
 
 server:
   port: 8080
